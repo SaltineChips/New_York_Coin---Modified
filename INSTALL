@@ -1,0 +1,9 @@
+Building Newyorkcoin
+
+See doc/readme-qt.rst for instructions on building Newyorkcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Newyorkcoin.
+
+See doc/build-*.txt for instructions on building Newyorkcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Newyorkcoin.
